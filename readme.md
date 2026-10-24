@@ -32,9 +32,9 @@
 7. **Конец**.
 
 ### Блок-схема
-![Блок-схема алгоритма](lab_6_schema.png) 
+![Блок-схема алгоритма](pravki6.drawio.png) 
 
-https://github.com/stzraw/lab-6-VSTU-HW/blob/main/lab_6_schema.png
+https://github.com/stzraw/lab-6-VSTU-HW/blob/main/pravki6.drawio.png
 
 ## 2. Реализация программы
 
